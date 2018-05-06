@@ -1,3 +1,6 @@
 [submodule "p1"]
 	path = p1
 	url = https://github.com/kjkhan/AIND-Sudoku
+[submodule "p2"]
+	path = p2
+	url = https://github.com/kjkhan/AIND-Isolation
