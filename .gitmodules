@@ -5,5 +5,8 @@
 	path = p2
 	url = https://github.com/kjkhan/AIND-Isolation
 [submodule "p3"]
-	path = AIND-Planning
+	path = p3
 	url = https://github.com/kjkhan/AIND-Planning
+[submodule "p4"]
+	path = p4
+	url = https://github.com/kjkhan/AIND-Recognizer
