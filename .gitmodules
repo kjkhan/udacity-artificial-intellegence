@@ -10,3 +10,12 @@
 [submodule "p4"]
 	path = p4
 	url = https://github.com/kjkhan/AIND-Recognizer
+[submodule "p5"]
+	path = p5
+	url = https://github.com/kjkhan/dog-project
+[submodule "p6"]
+	path = p6
+	url = https://github.com/kjkhan/aind2-rnn
+[submodule "p7"]
+	path = p7
+	url = https://github.com/kjkhan/aind2-nlp-capstone
